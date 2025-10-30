@@ -31,7 +31,7 @@ cd Pipelined-Five-Stage-RISC-V-Core-in-Verilog
 ### Simulation
 
 1. Open your simulation tool.
-2. Compile and run the testbench (usually in `/tb` directory).
+2. Compile and run the testbench (TestBench.v).
 3. View output waveforms to confirm proper pipeline operation.
 
 ## Directory Structure
